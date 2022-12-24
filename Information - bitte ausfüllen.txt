@@ -1,0 +1,48 @@
+Bitte ausfüllen:
+
+Nr. Gruppe:4
+
+Teilnehmer 1 (Name, Vorname, Matr.-Nr.):
+Sun,Haoran,03746297
+
+Teilnehmer 2 (Name, Vorname, Matr.-Nr.):
+ZHANG, Chi, 03735807
+
+Teilnehmer 3 (Name, Vorname, Matr.-Nr.):
+Su,Ye,03735948
+--------------------
+Beispiel:
+
+Nr. Gruppe: 4
+
+Teilnehmer 1 (Name, Vorname, Matr.-Nr.):
+Mustermann, Maximilian, 12345678
+
+Teilnehmer 2 (Name, Vorname, Matr.-Nr.):
+Musterfrau, Maximiliane, 12345678
+
+--------------------
+
+
+--------------------
+Hinweise zur Ordnerstruktur:
+
+- Arbeiten Sie direkt im Ordner ATP-Team-xy und ersetzen Sie xy durch ihre Gruppen-Nr. 
+
+- im Ordner Dokumente finden Sie eine Kopie des Ordner ATP-Team-xy, falls Sie eine neue Vorlagedatei benötigen. 
+
+> Tag 1: 	
+	- für jede Aufgabe ein neues Codesys-Projekt erstellen, dieses im ensprechenden Ordner abspeichern.
+> Tage 2-4: 	
+	- Aktivitätsdiagramme erstellen und im Ordner Aktivitätsdiagramme ablegen. Hierfür können Sie den yEd Graph Editor verwenden wenn Sie möchten. Die Aktivitätsdiagramme MÜSSEN jedoch immer folgende Eigenschaften erfüllen:
+		- als PDF vorliegen
+		- leserlich
+		- konform zur UML
+	- Codesys: Arbeiten Sie bitte ausschließlich in der bereitgestellten Vorlagendatei. Diese enthält auch die Simulation. Alle Aufgaben sind in diesem Projekt durchzuführen. 
+
+
+
+
+
+
+

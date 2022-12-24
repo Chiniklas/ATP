@@ -1,0 +1,22 @@
+- Erstellen Sie für den Automatic-Modus und den Init-Modus jeweils ein separates Aktivitätsdiagramm. 
+
+- Die Aktivitätsdiagramme dürfen Sie erstellen, wie Sie wollen. Die Aktivitätsdiagramme MÜSSEN jedoch immer folgende Eigenschaften erfüllen:
+	- als PDF vorliegen
+	- leserlich
+	- konform zur UML
+
+- Möglichkeiten zur Erstellung sind:
+	- Microsoft Visio, Microsoft Powerpoint
+	- Handschriftlich (Solange gut lesbar und am Ende als PDF vorhanden)
+	- online-Tools für UML-Modellierung
+	- Modelio Editor (auf dieser VM bereits installiert. Im Skript gibt es hierzu eine Kurzanleitung)
+
+- In Ordner Aktivitätsdiagramme finden Sie ein Beispiel, wie ein fertiges Diagramm aussehen könnte.
+
+
+
+
+
+
+
+
